@@ -1,6 +1,6 @@
-package net.kaupenjoe.tutorialmod.item;
+package net.goodtosea.pokefriendsbadges.item;
 
-import net.kaupenjoe.tutorialmod.TutorialMod;
+import net.goodtosea.pokefriendsbadges.PokefriendsBadges;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -9,7 +9,7 @@ import net.minecraftforge.registries.RegistryObject;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
-            DeferredRegister.create(ForgeRegistries.ITEMS, TutorialMod.MOD_ID);
+            DeferredRegister.create(ForgeRegistries.ITEMS, PokefriendsBadges.MOD_ID);
 
     public static final RegistryObject<Item> AEGIS_BADGE = ITEMS.register("aegis_badge",
             () -> new Item(new Item.Properties()));

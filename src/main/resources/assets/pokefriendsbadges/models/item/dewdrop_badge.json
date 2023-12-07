@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "tutorialmod:item/inferno_badge"
+    "layer0": "pokefriendsbadges:item/dewdrop_badge"
   }
 }

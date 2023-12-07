@@ -1,18 +1,17 @@
-package net.kaupenjoe.tutorialmod.item;
+package net.goodtosea.pokefriendsbadges.item;
 
-import net.kaupenjoe.tutorialmod.TutorialMod;
+import net.goodtosea.pokefriendsbadges.PokefriendsBadges;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.item.Items;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
 
 public class ModCreativeModTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS =
-            DeferredRegister.create(Registries.CREATIVE_MODE_TAB, TutorialMod.MOD_ID);
+            DeferredRegister.create(Registries.CREATIVE_MODE_TAB, PokefriendsBadges.MOD_ID);
 
     public static final RegistryObject<CreativeModeTab> BADGE_TAB = CREATIVE_MODE_TABS.register("badge_tab",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.MASTER_BADGE.get()))

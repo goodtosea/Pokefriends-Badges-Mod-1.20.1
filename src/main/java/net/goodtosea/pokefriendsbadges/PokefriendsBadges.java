@@ -1,8 +1,8 @@
-package net.kaupenjoe.tutorialmod;
+package net.goodtosea.pokefriendsbadges;
 
 import com.mojang.logging.LogUtils;
-import net.kaupenjoe.tutorialmod.item.ModCreativeModTabs;
-import net.kaupenjoe.tutorialmod.item.ModItems;
+import net.goodtosea.pokefriendsbadges.item.ModCreativeModTabs;
+import net.goodtosea.pokefriendsbadges.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -17,12 +17,12 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
-@Mod(TutorialMod.MOD_ID)
-public class TutorialMod {
-    public static final String MOD_ID = "tutorialmod";
+@Mod(PokefriendsBadges.MOD_ID)
+public class PokefriendsBadges {
+    public static final String MOD_ID = "pokefriendsbadges";
     public static final Logger LOGGER = LogUtils.getLogger();
 
-    public TutorialMod() {
+    public PokefriendsBadges() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModCreativeModTabs.register(modEventBus);
