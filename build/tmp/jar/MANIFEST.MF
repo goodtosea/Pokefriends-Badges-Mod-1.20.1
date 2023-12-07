@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: pokefriendsbadges
+Specification-Vendor: Allie Lane, goodtosea
+Specification-Version: 1
+Implementation-Title: forge-1.20.1-47.2.0-mdk (1)
+Implementation-Version: 0.1-1.20.1
+Implementation-Vendor: Allie Lane, goodtosea
+Implementation-Timestamp: 2023-12-07T05:12:26-0800
+
