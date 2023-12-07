@@ -43,6 +43,8 @@ public class TutorialMod {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.SAPPHIRE);
             event.accept(ModItems.RAW_SAPPHIRE);
+            event.accept(ModItems.AEGIS_BADGE);
+            event.accept(ModItems.APHID_BADGE);
         }
     }
 

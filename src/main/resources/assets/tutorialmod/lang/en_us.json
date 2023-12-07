@@ -1,6 +1,9 @@
 {
   "item.tutorialmod.sapphire": "Sapphire",
   "item.tutorialmod.raw_sapphire": "Raw Sapphire",
+  "item.tutorialmod.aegis_badge": "Aegis Badge",
+  "item.tutorialmod.aphid_badge":  "Aphid Badge",
 
-  "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
+
+  "creativetab.badge_tab": "Pokefriends Badges"
 }
