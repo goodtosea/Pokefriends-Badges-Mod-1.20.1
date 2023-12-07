@@ -18,12 +18,8 @@ public class ModCreativeModTabs {
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.AEGIS_BADGE.get()))
                     .title(Component.translatable("creativetab.badge_tab"))
                     .displayItems((pParameters, pOutput) -> {
-                        pOutput.accept(ModItems.SAPPHIRE.get());
-                        pOutput.accept(ModItems.RAW_SAPPHIRE.get());
-
-                        pOutput.accept(Items.DIAMOND);
-
                         pOutput.accept(ModItems.AEGIS_BADGE.get());
+                        pOutput.accept(ModItems.APHID_BADGE.get());
                     })
                     .build());
 
