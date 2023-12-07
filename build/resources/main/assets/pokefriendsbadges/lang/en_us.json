@@ -1,0 +1,22 @@
+{
+  "item.pokefriendsbadges.aegis_badge": "Aegis Badge",
+  "item.pokefriendsbadges.aphid_badge":  "Aphid Badge",
+  "item.pokefriendsbadges.blight_badge": "Blight Badge",
+  "item.pokefriendsbadges.crest_badge":  "Crest Badge",
+  "item.pokefriendsbadges.dewdrop_badge": "Dewdrop Badge",
+  "item.pokefriendsbadges.dusk_badge":  "Dusk Badge",
+  "item.pokefriendsbadges.esper_badge": "Esper Badge",
+  "item.pokefriendsbadges.fable_badge":  "Fable Badge",
+  "item.pokefriendsbadges.garden_badge": "Garden Badge",
+  "item.pokefriendsbadges.glacier_badge":  "Glacier Badge",
+  "item.pokefriendsbadges.harmony_badge": "Harmony Badge",
+  "item.pokefriendsbadges.inferno_badge":  "Inferno Badge",
+  "item.pokefriendsbadges.master_badge": "Master Badge",
+  "item.pokefriendsbadges.melee_badge":  "Melee Badge",
+  "item.pokefriendsbadges.mythos_badge": "Mythos Badge",
+  "item.pokefriendsbadges.quarry_badge":  "Quarry Badge",
+  "item.pokefriendsbadges.sand_badge": "Sand Badge",
+  "item.pokefriendsbadges.tesla_badge":  "Tesla Badge",
+
+  "creativetab.badge_tab": "Pokefriends Badges"
+}
