@@ -40,9 +40,26 @@ public class TutorialMod {
     }
 
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
-        if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
+        if(event.getTabKey() == CreativeModeTabs.SEARCH) {
             event.accept(ModItems.AEGIS_BADGE);
             event.accept(ModItems.APHID_BADGE);
+            event.accept(ModItems.BLIGHT_BADGE);
+            event.accept(ModItems.CREST_BADGE);
+            event.accept(ModItems.DEWDROP_BADGE);
+            event.accept(ModItems.DUSK_BADGE);
+            event.accept(ModItems.ESPER_BADGE);
+            event.accept(ModItems.FABLE_BADGE);
+            event.accept(ModItems.GARDEN_BADGE);
+            event.accept(ModItems.GLACIER_BADGE);
+            event.accept(ModItems.HARMONY_BADGE);
+            event.accept(ModItems.INFERNO_BADGE);
+            event.accept(ModItems.MASTER_BADGE);
+            event.accept(ModItems.MELEE_BADGE);
+            event.accept(ModItems.MYTHOS_BADGE);
+            event.accept(ModItems.PHANTOM_BADGE);
+            event.accept(ModItems.QUARRY_BADGE);
+            event.accept(ModItems.SAND_BADGE);
+            event.accept(ModItems.TESLA_BADGE);
         }
     }
 

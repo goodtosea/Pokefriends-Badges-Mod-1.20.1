@@ -1,6 +1,22 @@
 {
   "item.tutorialmod.aegis_badge": "Aegis Badge",
   "item.tutorialmod.aphid_badge":  "Aphid Badge",
+  "item.tutorialmod.blight_badge": "Blight Badge",
+  "item.tutorialmod.crest_badge":  "Crest Badge",
+  "item.tutorialmod.dewdrop_badge": "Dewdrop Badge",
+  "item.tutorialmod.dusk_badge":  "Dusk Badge",
+  "item.tutorialmod.esper_badge": "Esper Badge",
+  "item.tutorialmod.fable_badge":  "Fable Badge",
+  "item.tutorialmod.garden_badge": "Garden Badge",
+  "item.tutorialmod.glacier_badge":  "Glacier Badge",
+  "item.tutorialmod.harmony_badge": "Harmony Badge",
+  "item.tutorialmod.inferno_badge":  "Inferno Badge",
+  "item.tutorialmod.master_badge": "Master Badge",
+  "item.tutorialmod.melee_badge":  "Melee Badge",
+  "item.tutorialmod.mythos_badge": "Mythos Badge",
+  "item.tutorialmod.quarry_badge":  "Quarry Badge",
+  "item.tutorialmod.sand_badge": "Sand Badge",
+  "item.tutorialmod.tesla_badge":  "Tesla Badge",
 
   "creativetab.badge_tab": "Pokefriends Badges"
 }
