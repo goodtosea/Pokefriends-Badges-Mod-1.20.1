@@ -35,6 +35,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.QUARRY_BADGE.get());
                         pOutput.accept(ModItems.SAND_BADGE.get());
                         pOutput.accept(ModItems.TESLA_BADGE.get());
+                        pOutput.accept(ModItems.EEVEE_BADGE.get());
                     })
                     .build());
 
