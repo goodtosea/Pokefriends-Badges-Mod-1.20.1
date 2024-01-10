@@ -153,6 +153,7 @@ Writing Output: E:\Downloads\forge-1.20.1-47.2.0-mdk (1)\build\reobfJar\output.j
   assets/pokefriendsbadges/models/item/crest_badge.json
   assets/pokefriendsbadges/models/item/dewdrop_badge.json
   assets/pokefriendsbadges/models/item/dusk_badge.json
+  assets/pokefriendsbadges/models/item/eevee_badge.json
   assets/pokefriendsbadges/models/item/esper_badge.json
   assets/pokefriendsbadges/models/item/fable_badge.json
   assets/pokefriendsbadges/models/item/garden_badge.json
@@ -174,6 +175,7 @@ Writing Output: E:\Downloads\forge-1.20.1-47.2.0-mdk (1)\build\reobfJar\output.j
   assets/pokefriendsbadges/textures/item/crest_badge.png
   assets/pokefriendsbadges/textures/item/dewdrop_badge.png
   assets/pokefriendsbadges/textures/item/dusk_badge.png
+  assets/pokefriendsbadges/textures/item/eevee_badge.png
   assets/pokefriendsbadges/textures/item/esper_badge.png
   assets/pokefriendsbadges/textures/item/fable_badge.png
   assets/pokefriendsbadges/textures/item/garden_badge.png
