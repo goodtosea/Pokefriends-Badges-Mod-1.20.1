@@ -51,6 +51,8 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> EEVEE_BADGE = ITEMS.register("eevee_badge",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> LITTLE_CUP_BADGE = ITEMS.register("little_cup_badge",
+            () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

@@ -160,6 +160,7 @@ Writing Output: E:\Downloads\forge-1.20.1-47.2.0-mdk (1)\build\reobfJar\output.j
   assets/pokefriendsbadges/models/item/glacier_badge.json
   assets/pokefriendsbadges/models/item/harmony_badge.json
   assets/pokefriendsbadges/models/item/inferno_badge.json
+  assets/pokefriendsbadges/models/item/little_cup_badge.json
   assets/pokefriendsbadges/models/item/master_badge.json
   assets/pokefriendsbadges/models/item/melee_badge.json
   assets/pokefriendsbadges/models/item/mythos_badge.json
@@ -182,6 +183,7 @@ Writing Output: E:\Downloads\forge-1.20.1-47.2.0-mdk (1)\build\reobfJar\output.j
   assets/pokefriendsbadges/textures/item/glacier_badge.png
   assets/pokefriendsbadges/textures/item/harmony_badge.png
   assets/pokefriendsbadges/textures/item/inferno_badge.png
+  assets/pokefriendsbadges/textures/item/little_cup_badge.png
   assets/pokefriendsbadges/textures/item/master_badge.png
   assets/pokefriendsbadges/textures/item/melee_badge.png
   assets/pokefriendsbadges/textures/item/mythos_badge.png

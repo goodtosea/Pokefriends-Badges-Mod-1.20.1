@@ -60,6 +60,8 @@ public class PokefriendsBadges {
             event.accept(ModItems.QUARRY_BADGE);
             event.accept(ModItems.SAND_BADGE);
             event.accept(ModItems.TESLA_BADGE);
+            event.accept(ModItems.EEVEE_BADGE);
+            event.accept(ModItems.LITTLE_CUP_BADGE);
         }
     }
 
